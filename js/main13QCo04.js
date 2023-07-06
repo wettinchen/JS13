@@ -1,0 +1,3 @@
+// Functions
+
+// Function Declaration Syntax:
